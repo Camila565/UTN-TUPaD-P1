@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Bruselario, Sebastián *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-7 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Reyna, Camila Cynthia *[Modificar con su nombre completo]*  
+- **Comisión:** M2025-20 *[Modificar con su comisión, donde 7 es el número de comisión]*  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
@@ -18,4 +18,4 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 > 
 > ¡Recuerda mantener actualizado tu repositorio!
 
-Este es un cambio en la main branch.
+Este es un cambio en la main branch.Este es un cambio en la feature branch
